@@ -16,7 +16,7 @@ main('Running main function')
  
 #variables
 host = '127.0.0.1'
-port = 80
+port = 21
 
 #socket connection
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
